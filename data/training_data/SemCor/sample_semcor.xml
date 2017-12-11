@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<corpus lang="en" source="semcor">
+    <text id="d000" source="br-e30">
+        <sentence id="d000.s000">
+            <wf lemma="how" pos="ADV">How</wf>
+            <instance id="d000.s000.t000" lemma="long" pos="ADJ">long</instance>
+            <wf lemma="have" pos="VERB">has</wf>
+            <wf lemma="it" pos="PRON">it</wf>
+            <instance id="d000.s000.t001" lemma="be" pos="VERB">been</instance>
+            <wf lemma="since" pos="ADP">since</wf>
+            <wf lemma="you" pos="PRON">you</wf>
+            <instance id="d000.s000.t002" lemma="review" pos="VERB">reviewed</instance>
+            <wf lemma="the" pos="DET">the</wf>
+            <instance id="d000.s000.t003" lemma="objective" pos="NOUN">objectives</instance>
+            <wf lemma="of" pos="ADP">of</wf>
+            <wf lemma="you" pos="PRON">your</wf>
+            <instance id="d000.s000.t004" lemma="benefit" pos="NOUN">benefit</instance>
+            <wf lemma="and" pos="CONJ">and</wf>
+            <instance id="d000.s000.t005" lemma="service" pos="NOUN">service</instance>
+            <instance id="d000.s000.t006" lemma="program" pos="NOUN">program</instance>
+            <wf lemma="?" pos=".">?</wf>
+        </sentence>
+    </text>
+</corpus>
