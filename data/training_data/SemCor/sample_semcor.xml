@@ -20,5 +20,30 @@
             <instance id="d000.s000.t006" lemma="program" pos="NOUN">program</instance>
             <wf lemma="?" pos=".">?</wf>
         </sentence>
+        <sentence id="d351.s074">
+            <wf lemma="when" pos="ADV">When</wf>
+            <instance id="d351.s074.t000" lemma="inform" pos="VERB">informed</instance>
+            <wf lemma="as" pos="ADP">as</wf>
+            <wf lemma="to" pos="PRT">to</wf>
+            <wf lemma="the" pos="DET">the</wf>
+            <wf lemma="various" pos="ADJ">various</wf>
+            <wf lemma="possibility" pos="NOUN">possibilities</wf>
+            <wf lemma="of" pos="ADP">of</wf>
+            <wf lemma="normal" pos="ADJ">normal</wf>
+            <wf lemma="reaction" pos="NOUN">reactions</wf>
+            <wf lemma="," pos=".">,</wf>
+            <wf lemma="they" pos="PRON">they</wf>
+            <instance id="d351.s074.t001" lemma="be" pos="VERB">were</instance>
+            <wf lemma="then" pos="ADV">then</wf>
+            <wf lemma="able" pos="ADJ">able</wf>
+            <wf lemma="to" pos="PRT">to</wf>
+            <instance id="d351.s074.t002" lemma="experience" pos="VERB">experience</instance>
+            <wf lemma="the" pos="DET">the</wf>
+            <wf lemma="uniqueness" pos="NOUN">uniqueness</wf>
+            <wf lemma="of" pos="ADP">of</wf>
+            <wf lemma="the" pos="DET">the</wf>
+            <wf lemma="present" pos="ADJ">present</wf>
+            <wf lemma="." pos=".">.</wf>
+        </sentence>
     </text>
 </corpus>
