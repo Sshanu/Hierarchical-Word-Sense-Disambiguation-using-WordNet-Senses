@@ -7,3 +7,4 @@ data/
 .ipynb_checkpoints/
 Four Word Model/output
 *.pickle
+papers/
