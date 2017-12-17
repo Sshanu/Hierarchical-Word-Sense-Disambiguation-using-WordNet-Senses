@@ -6,5 +6,6 @@ Four Word Model/.ipynb_checkpoints/
 data/
 .ipynb_checkpoints/
 Four Word Model/output
+one_million/output
 *.pickle
 papers/
