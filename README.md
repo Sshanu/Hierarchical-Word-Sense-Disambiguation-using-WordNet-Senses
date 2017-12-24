@@ -1,10 +1,10 @@
 # Word Sense Disambiguation - Winter Project 2017
 
 ## Team Members
-* [Harshit Saini](www.github.com/harshits333)
-* [Praphul Singh](www.github.com/spraphul)
-* [Robin Singh](www.github.com/robsr)
-* [Shanu Kumar](www.github.com/Sshanu)
+* [Harshit Saini](https://github.com/harshits333)
+* [Praphul Singh](https://github.com/spraphul)
+* [Robin Singh](https://github.com/robsr)
+* [Shanu Kumar](https://github.com/Sshanu)
 
 ## Introduction 
 
