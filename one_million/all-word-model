@@ -1,0 +1,22 @@
+all-word-model:
+
+1: basic   Val: F1 Score:65.5462 Accuracy:73.1659  Model-aw-1-multigpu-1
+
+2: cnn with pos  Val: F1 Score:72.33 Accuracy:77.93  POS: F1 Score:94.84 Accuracy:97.54  Model-aw-lex-1.4
+
+3: local attention  44.361822318916865, 53.75801083454307, 82.19997565386215, 90.42074423342494
+Model-aw-lex-local_attention-fast-v2-4
+
+4: local attention with hidden states  Val: F1 Score:52.19 Accuracy:58.68  POS: F1 Score:85.66 Accuracy:92.72  Model-aw-lex-local_attention-fast-v2-6
+
+5: gated local attention Val: F1 Score:44.17 Accuracy:53.07  POS: F1 Score:84.01 Accuracy:91.94
+	Model-aw-lex-local_attention-fast-v2-7
+
+6: local attention with crf  Val: F1 Score:50.65 Accuracy:57.15  POS: F1 Score:87.84 Accuracy:93.70
+Model-aw-lex-local_attention-fast-v3-1  and Model-aw-lex-local_attention-fast-v4-1
+
+7: soft hierarchical Model-aw-lex-hierarchical-2.ipynb
+Val: F1 Score:74.04 Accuracy:79.38  POS: F1 Score:96.34 Accuracy:98.21 Loss:0.8093 , Time: 1240.6
+
+8: hard hierarchical Model-aw-lex-hierarchical-2.ipynb
+Val: F1 Score:70.35 Accuracy:77.30  POS: F1 Score:95.56 Accuracy:97.89 Loss:0.9279 , Time: 1195.1
