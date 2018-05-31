@@ -9,7 +9,7 @@ Word sense disambiguation (WSD) is the ability to identify the meaning of words 
 * [All-words Model](https://github.com/Sshanu/Word-Sense-Disambiguation/tree/master/one_million/all-word)
 * [Hierarchical Model](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-hierarchical-2.ipynb)
 
-## Better Performing models
+## Best Models
 * [All-words Model+CNN](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-1.4.ipynb)
 * [All-words Hierarchical Model+Soft Masking](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-hierarchical-2.ipynb)
 * [All-words Hierarchical Model+Hard Masking](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-hierarchical-4.ipynb)
