@@ -1,21 +1,9 @@
-# Word Sense Disambiguation - Winter Project 2017
+# Word Sense Disambiguation 
 
-## Team Members
-* [Harshit Saini](https://github.com/harshits333)
-* [Praphul Singh](https://github.com/spraphul)
-* [Robin Singh](https://github.com/robsr)
-* [Shanu Kumar](https://github.com/Sshanu)
+Word sense disambiguation (WSD) is the ability to identify the meaning of words in context. We address this problem using series of end-to-end neural architectures using bidirectional Long Short Term Memory (LSTM). We propose two variants for WSD: an end-to-end word specific neural model and all-words neural model. In the word specific models we have to train models for every disambiguation target word. We addressed this issue using the all-words model which rely on sequence learning. We also used POS tags to improve the performance. We tried different variants of attention mechanisms for the all-words model. Performance was boosted by using convolutional neural networks (CNN) which captures local features around the words that is normally what humans do for predicting the senses. We further improved the performance using hierarchical models. We used POS tags as hierarchy and used two variants as soft masking and hard masking.
 
-## Introduction 
+## MODELS
 
-### WSD is one of the greatest problems in Natural Language Processing. It is widely used in machine translations, sequence tagging, information retrieval and many more areas. Despite of the amount of work already done in this field, the problem stills seeks for better and accurate ways of implementation.
-### In this project, we have tried to explore the field under the supervision of Prof. Harish Karnick, IIT Kanpur.
-
-## Work Done
-* _We have used the Four Word dataset and One million dataset for the training._
-* _We built a TensorFlow based model to predict the sense of a target word in a sentence.(Model-1)_
-* _In addition to this, model-1 was modified to predict the POS-tags of each word in the sentence as well to have a better understanding of the grammmar before predicting the sense of the target word.(Model-2)_
-* _To improve the accuracy of the POS-tags Linear Conditional Random Fields(CRF) classifier was used instead of Softmax Classifier.(Model-3)_
-* _We propose a hierarchical model to predict the POS-tag of the target word first to reduce the classification problem to less number of senses and then predict the sense of the target word.(Model-4). Note that there is no pretraining involved separately for the POS-tag. Instead the model is trained both for POS-tag and sense in a single shot assigning more weight to the POS loss._
-
-
+* [Word Specific Model trained on One Million Dataset](https://github.com/Sshanu/Word-Sense-Disambiguation/tree/master/Four%20Word%20Model)
+* [Word Specific Model trained on One Million Dataset](https://github.com/Sshanu/Word-Sense-Disambiguation/tree/master/one_million)
+* [All-words Model](https://github.com/Sshanu/Word-Sense-Disambiguation/tree/master/one_million/all-word)
