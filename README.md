@@ -4,6 +4,6 @@ Word sense disambiguation (WSD) is the ability to identify the meaning of words 
 
 ## MODELS
 
-* [Word Specific Model trained on One Million Dataset](https://github.com/Sshanu/Word-Sense-Disambiguation/tree/master/Four%20Word%20Model)
+* [Word Specific Model trained on Four Word Dataset](https://github.com/Sshanu/Word-Sense-Disambiguation/tree/master/Four%20Word%20Model)
 * [Word Specific Model trained on One Million Dataset](https://github.com/Sshanu/Word-Sense-Disambiguation/tree/master/one_million)
 * [All-words Model](https://github.com/Sshanu/Word-Sense-Disambiguation/tree/master/one_million/all-word)
