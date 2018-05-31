@@ -12,4 +12,4 @@ Word sense disambiguation (WSD) is the ability to identify the meaning of words 
 ## More Information
 For detailed information about models and results:
 * [Report](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/UGP_Report.pdf)
-* [Presentation](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/UGP_Report.pdf)
+* [Presentation](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/UGP_presentation.pdf)
