@@ -23,21 +23,29 @@ For detailed information about models and results:
 ### All words Models
 
 #### [All-words Hierarchical Model+Soft Masking](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-hierarchical-2.ipynb)
-![Model 7](models_diagram/all-word-7.png) 
+<p align="center">
+<img src="models_diagram/all-word-7.png" height="500" width="700">
+</p>
 
 #### [All-words Hierarchical Model+Hard Masking](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-hierarchical-4.ipynb)
-![Model 8](models_diagram/all-word-8.png) 
-
+<p align="center">
+<img src="models_diagram/all-word-8.png" height="500" width="700">
+</p>
 
 #### [Basic Model](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-1-multigpu-1.ipynb)
-![Model 1](models_diagram/all-word-1.png) 
+<p align="center">
+<img src="models_diagram/all-word-1.png" height="300" width="400">
+</p>
 
 #### [Basic Model+Local Attention](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-local_attention-fast-v2-4.ipynb)
-![Model 2](models_diagram/all-word-3.png) 
-
+<p align="center">
+<img src="models_diagram/all-word-3.png" height="500" width="700">
+</p>
 
 #### [Basic Model+Local Attentionn+Hidden States](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-local_attention-fast-v2-6.ipynb)
-![Model 3](models_diagram/all-word-4.png) 
+<p align="center">
+<img src="models_diagram/all-word-4.png" height="500" width="700">
+</p>
 
 #### [Basic Model+Local Attentionn+Hidden States+CRF](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-local_attention-fast-v3-1.ipynb)
 ![Model 4](models_diagram/all-word-6.png) 
