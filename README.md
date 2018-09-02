@@ -20,25 +20,14 @@ For detailed information about models and results:
 * [Report](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/UGP_Report.pdf)
 * [Presentation](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/UGP_presentation.pdf)
 
-## Word Specific Models
-
-### [Basic Model](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-1-multigpu-1.ipynb)
-Files with name as Model-1-multigpu-1.ipynb are the basic models
-![Model 1](models_diagram/model-1.png)
-
-### [Basic Model+POS Tags](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-2-multigpu-1.ipynb)
-Files with name as Model-1-multigpu-2.ipynb are the basic models
-![Model 2](models_diagram/model-2.png)
-
-### [Basic Model+POS Tags+CRF](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-3-multigpu-1.ipynb)
-Files with name as Model-1-multigpu-3.ipynb are the basic models
-![Model 3](models_diagram/model-3.png)
-
-### [Word specific hierarchical model](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-4-multigpu-1.ipynb)
-Files with name as Model-1-multigpu-4.ipynb are the basic models
-![Model 4](models_diagram/model-4.png)
-
 ## All words Models
+
+### [All-words Hierarchical Model+Soft Masking](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-hierarchical-2.ipynb)
+![Model 7](models_diagram/all-word-7.png) 
+
+### [All-words Hierarchical Model+Hard Masking](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-hierarchical-4.ipynb)
+![Model 8](models_diagram/all-word-8.png) 
+
 
 ### [Basic Model](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-1-multigpu-1.ipynb)
 ![Model 1](models_diagram/all-word-1.png) 
@@ -60,9 +49,21 @@ Files with name as Model-1-multigpu-4.ipynb are the basic models
 ![Model 6](models_diagram/all-word-2.png) 
 
 
-### [All-words Hierarchical Model+Soft Masking](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-hierarchical-2.ipynb)
-![Model 7](models_diagram/all-word-7.png) 
+## Word Specific Models
 
-### [All-words Hierarchical Model+Hard Masking](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-hierarchical-4.ipynb)
-![Model 8](models_diagram/all-word-8.png) 
+### [Basic Model](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-1-multigpu-1.ipynb)
+Files with name as Model-1-multigpu-1.ipynb are the basic models
+![Model 1](models_diagram/model-1.png)
+
+### [Basic Model+POS Tags](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-2-multigpu-1.ipynb)
+Files with name as Model-1-multigpu-2.ipynb are the basic models
+![Model 2](models_diagram/model-2.png)
+
+### [Basic Model+POS Tags+CRF](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-3-multigpu-1.ipynb)
+Files with name as Model-1-multigpu-3.ipynb are the basic models
+![Model 3](models_diagram/model-3.png)
+
+### [Word specific hierarchical model](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-4-multigpu-1.ipynb)
+Files with name as Model-1-multigpu-4.ipynb are the basic models
+![Model 4](models_diagram/model-4.png)
 
