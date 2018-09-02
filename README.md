@@ -34,7 +34,7 @@ For detailed information about models and results:
 
 #### [Basic Model](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-1-multigpu-1.ipynb)
 <p align="center">
-<img src="models_diagram/all-word-1.png" height="300" width="400">
+<img src="models_diagram/all-word-1.png" height="400" width="450">
 </p>
 
 #### [Basic Model+Local Attention](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-local_attention-fast-v2-4.ipynb)
@@ -53,17 +53,22 @@ For detailed information about models and results:
 </p>
 
 #### [Basic Model+Gated Attention](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-local_attention-fast-v2-7.ipynb)
-![Model 5](models_diagram/all-word-5.png) 
+<p align="center">
+<img src="models_diagram/all-word-5.png" height="450" width="600">
+</p>
 
 #### [Basic Model+CNN](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-1.4.ipynb)
-![Model 6](models_diagram/all-word-2.png) 
-
+<p align="center">
+<img src="models_diagram/all-word-2.png" height="450" width="600">
+</p>
 
 ### Word Specific Models
 
 #### [Basic Model](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-1-multigpu-1.ipynb)
 Files with name as Model-1-multigpu-1.ipynb are the basic models
-![Model 1](models_diagram/model-1.png)
+<p align="center">
+<img src="models_diagram/model-1.png" height="400" width="450">
+</p>
 
 #### [Basic Model+POS Tags](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-2-multigpu-1.ipynb)
 Files with name as Model-1-multigpu-2.ipynb are the basic models
