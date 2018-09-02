@@ -67,18 +67,24 @@ For detailed information about models and results:
 #### [Basic Model](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-1-multigpu-1.ipynb)
 Files with name as Model-1-multigpu-1.ipynb are the basic models
 <p align="center">
-<img src="models_diagram/model-1.png" height="400" width="450">
+<img src="models_diagram/model-1.png" height="350" width="400">
 </p>
 
 #### [Basic Model+POS Tags](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-2-multigpu-1.ipynb)
 Files with name as Model-1-multigpu-2.ipynb are the basic models
-![Model 2](models_diagram/model-2.png)
+<p align="center">
+<img src="models_diagram/model-2.png" height="400" width="600">
+</p>
 
 #### [Basic Model+POS Tags+CRF](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-3-multigpu-1.ipynb)
 Files with name as Model-1-multigpu-3.ipynb are the basic models
-![Model 3](models_diagram/model-3.png)
+<p align="center">
+<img src="models_diagram/model-3.png" height="400" width="600">
+</p>
 
 #### [Word specific hierarchical model](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/force/Force-Model-4-multigpu-1.ipynb)
 Files with name as Model-1-multigpu-4.ipynb are the basic models
-![Model 4](models_diagram/model-4.png)
+<p align="center">
+<img src="models_diagram/model-4.png" height="450" width="600">
+</p>
 
