@@ -39,16 +39,18 @@ For detailed information about models and results:
 
 #### [Basic Model+Local Attention](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-local_attention-fast-v2-4.ipynb)
 <p align="center">
-<img src="models_diagram/all-word-3.png" height="500" width="700">
+<img src="models_diagram/all-word-3.png" height="450" width="600">
 </p>
 
 #### [Basic Model+Local Attentionn+Hidden States](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-local_attention-fast-v2-6.ipynb)
 <p align="center">
-<img src="models_diagram/all-word-4.png" height="500" width="700">
+<img src="models_diagram/all-word-4.png" height="450" width="600">
 </p>
 
 #### [Basic Model+Local Attentionn+Hidden States+CRF](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-local_attention-fast-v3-1.ipynb)
-![Model 4](models_diagram/all-word-6.png) 
+<p align="center">
+<img src="models_diagram/all-word-6.png" height="450" width="600">
+</p>
 
 #### [Basic Model+Gated Attention](https://github.com/Sshanu/Word-Sense-Disambiguation/blob/master/one_million/all-word/Model-aw-lex-local_attention-fast-v2-7.ipynb)
 ![Model 5](models_diagram/all-word-5.png) 
